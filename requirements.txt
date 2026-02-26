@@ -8,3 +8,5 @@ requests
 urllib3
 charset-normalizer
 setuptools
+beautifulsoup4
+pandas
